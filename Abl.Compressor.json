@@ -1,0 +1,63 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.Compressor",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Att" : [ 0.02 ],
+					"Gain" : [ -0.000000000000002 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Ratio" : [ 4.0 ],
+					"Rel" : [ 0.08 ],
+					"Thresh" : [ -6.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Punchy",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Att" : [ 1.265837115772999 ],
+					"Gain" : [ 3.339334595212423 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Ratio" : [ 4.0 ],
+					"Rel" : [ 0.08 ],
+					"Thresh" : [ -19.763779527559034 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Spongy",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Att" : [ 0.0 ],
+					"Gain" : [ 6.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Ratio" : [ 23.414520990873502 ],
+					"Rel" : [ 0.039557409867906 ],
+					"Thresh" : [ -23.35433070866139 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

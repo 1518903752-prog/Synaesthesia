@@ -1,0 +1,89 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.Distortion",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bass" : [ 0.0 ],
+					"Gain" : [ 0.0 ],
+					"Mid" : [ 0.0 ],
+					"MidRange" : [ 1.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Sub" : [ 0.0 ],
+					"Treble" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "More",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bass" : [ 0.0 ],
+					"Gain" : [ 0.201438402876805 ],
+					"Mid" : [ 0.0 ],
+					"MidRange" : [ 1.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Sub" : [ 0.0 ],
+					"Treble" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Sharp",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bass" : [ -0.362204724409449 ],
+					"Gain" : [ 0.104222208444417 ],
+					"Mid" : [ 0.346456692913385 ],
+					"MidRange" : [ 1.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Sub" : [ 0.0 ],
+					"Treble" : [ -0.354330708661418 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Heavy",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bass" : [ 0.795275590551181 ],
+					"Gain" : [ 0.447950895901792 ],
+					"Mid" : [ -0.330708661417322 ],
+					"MidRange" : [ 2.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Sub" : [ 0.0 ],
+					"Treble" : [ -0.330708661417323 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

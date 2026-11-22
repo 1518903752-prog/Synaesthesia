@@ -1,0 +1,11 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "OTT",
+    "origin": "",
+    "type": "AudioUnit",
+    "subtype": "AudioEffect",
+    "embed": 0,
+    "snapshot": {    }
+}

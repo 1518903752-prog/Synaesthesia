@@ -1,0 +1,653 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.SpectralReson",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "B0",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 35.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "A0",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 33.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "G0",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 31.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "E0",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 28.000000000000004 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Shift+",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 2.999999999999989 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "Shift-",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ -4.000000000000002 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "Stretch+",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.15748031496063 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"name" : "Stretch-",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ -0.2 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"name" : "Harmonic1",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 1.0 ],
+					"A::Mix" : [ 0.669291338582678 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ -24.000000000000007 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"name" : "UltraLow",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 12.283464566929149 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 26.000000000000004 ],
+					"A::Shift" : [ -24.000000000000014 ],
+					"A::Stretch" : [ -1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.0 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.051143207314879 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"name" : "Detune",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.503937007874017 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"name" : "Short",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 1.0 ],
+					"B::Hdamp" : [ 1.0 ],
+					"B::Ldamp" : [ 1.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"14" : 			{
+				"id" : 14,
+				"name" : "Long",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.118110236220473 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 0.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"15" : 			{
+				"id" : 15,
+				"name" : "Chorus",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.0 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.059128537968638 ],
+					"B::ModType" : [ 1.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"16" : 			{
+				"id" : 16,
+				"name" : "Wobbling",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.0 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.5 ],
+					"B::ModType" : [ 2.0 ],
+					"B::PitchMod" : [ 0.60768235983687 ]
+				}
+
+			}
+,
+			"17" : 			{
+				"id" : 17,
+				"name" : "Bouncing",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 0.0 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 0.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 4999.999999999999091 ],
+					"B::Hdamp" : [ 0.5 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.018951472453231 ],
+					"B::ModType" : [ 3.0 ],
+					"B::PitchMod" : [ 4.0 ]
+				}
+
+			}
+,
+			"18" : 			{
+				"id" : 18,
+				"name" : "Drops",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 7.937007874015734 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 48.0 ],
+					"A::Stretch" : [ 1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 1.0 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.009994555683719 ],
+					"B::ModType" : [ 3.0 ],
+					"B::PitchMod" : [ 0.000873859308679 ]
+				}
+
+			}
+,
+			"19" : 			{
+				"id" : 19,
+				"name" : "HighBells",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 7.937007874015734 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 48.0 ],
+					"A::Stretch" : [ 1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.346456692913387 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.008142506293332 ],
+					"B::ModType" : [ 3.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"20" : 			{
+				"id" : 20,
+				"name" : "LowBells",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 7.937007874015734 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.346456692913387 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.008142506293332 ],
+					"B::ModType" : [ 3.0 ],
+					"B::PitchMod" : [ 0.0 ]
+				}
+
+			}
+,
+			"21" : 			{
+				"id" : 21,
+				"name" : "FallingBirds",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 4.157480314960623 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 48.0 ],
+					"A::Stretch" : [ 1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.338582677165354 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.000729749351958 ],
+					"B::ModType" : [ 3.0 ],
+					"B::PitchMod" : [ 4.0 ]
+				}
+
+			}
+,
+			"22" : 			{
+				"id" : 22,
+				"name" : "FallingSpaceBirds",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 1.0 ],
+					"A::Gain" : [ 4.157480314960623 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 48.0 ],
+					"A::Stretch" : [ 1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.0 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.000729749351958 ],
+					"B::ModType" : [ 3.0 ],
+					"B::PitchMod" : [ 4.0 ]
+				}
+
+			}
+,
+			"23" : 			{
+				"id" : 23,
+				"name" : "SlidingBells",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"View" : [ 0.0 ],
+					"A::Gain" : [ 4.157480314960623 ],
+					"A::Harms" : [ 256.0 ],
+					"A::Mix" : [ 0.5 ],
+					"A::Pitch" : [ 38.0 ],
+					"A::Shift" : [ 0.0 ],
+					"A::Stretch" : [ 1.0 ],
+					"A::Unison" : [ 0.25 ],
+					"A::Voices" : [ 1.0 ],
+					"B::Decay" : [ 20000.0 ],
+					"B::Hdamp" : [ 0.0 ],
+					"B::Ldamp" : [ 0.0 ],
+					"B::ModRate" : [ 0.000729749351958 ],
+					"B::ModType" : [ 1.0 ],
+					"B::PitchMod" : [ 4.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,21 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Generated files
+__pycache__/
+*.py[cod]
+analysis/score.json
+analysis/timeline_1111/latest_score.json
+analysis/token_usage.json
+# Full release assets
+demo.mp4
+runtime/
+tools/*.exe
+*.zip
+# OS/editor state
+.DS_Store
+Thumbs.db
+.vscode/

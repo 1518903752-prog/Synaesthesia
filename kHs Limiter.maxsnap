@@ -1,0 +1,22 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "kHs Limiter",
+    "origin": "kHs Limiter.vstinfo",
+    "type": "VST",
+    "subtype": "AudioEffect",
+    "embed": 0,
+    "snapshot": {
+        "pluginname": "kHs Limiter.vstinfo",
+        "plugindisplayname": "kHs Limiter",
+        "pluginsavedname": "",
+        "pluginsaveduniqueid": 1802726516,
+        "version": 1,
+        "isbank": 0,
+        "isbase64": 1,
+        "sliderorder": [],
+        "slidervisibility": [ 1, 1, 1, 1, 1 ],
+        "blob": "568.CMlaKA....fQPMDZ....Ar1brQGPBPf.....A........................................D.+Psz.DPA.Hf.B.3Vl10E...............fB....yQWXzUlKpM2at091Ko1vv.gAfWaeJJhtLTbBMsMca2zBoGfRoDTrm3XpdDzi.kfu6UR1JuHGg+MF7+LZlO489PYASRNN606NTVTv3d2VsI7F6s2+X4xuXkE8SB8rmL1NsJ21FsQxcw1lxlDC1I7scpTP07wLayuwfYOlGxNCYIWdFJtjh0yUk5FRjKFZcUKebhCi6d2e6RGPzI6bjYbwZq65NcaCKZqVzDypd3kmdtZ1rEC0Ljf3VZnR0z4KlOsJHLUqg1v8BmcDQQXS0jxRqD55zUYCWDN5jTMRwWKnzJbFeN8HxiyJD2mldqPuNb9iCW4kepa7BtK7g0l.MND4EweGyJRmId23l1gugooFirZuoltHhK0dk6rYFxp8l8zkQ27Nb9s3jDVpz3B.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAX.FfAXtIl3yeRscpo7+WWYpdeYe4+PszAHTV.57ncA...ciC...0RAH...PA.Hf.B.3Vl10UYAnyi1E...zMN..fB......................vbzEFck4hZy8laPsTAF.....P..D..3....3Z......."
+    }
+}

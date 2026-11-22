@@ -1,0 +1,1294 @@
+{
+  "source_duration_seconds": 315.47,
+  "generated_at": "2026-10-02T13:02:15.742Z",
+  "event_count_before_deduplication": 28,
+  "event_count": 26,
+  "events": [
+    {
+      "id": "event_001",
+      "start": 0,
+      "end": 4,
+      "action": "wash",
+      "action_group": "wash",
+      "action_group_zh": "清洗",
+      "raw_action": "wash",
+      "ingredient": "green_pepper",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "green_pepper"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": 3,
+          "count_confidence": 0.95,
+          "count_basis": "video_tracking"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "在水槽中清洗3个完整的青椒。",
+      "source_chunks": [
+        1
+      ]
+    },
+    {
+      "id": "event_002",
+      "start": 4,
+      "end": 28,
+      "action": "chop",
+      "action_group": "chop",
+      "action_group_zh": "切食材",
+      "raw_action": "chop",
+      "ingredient": "green_pepper",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "green_pepper"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": 3,
+          "count_confidence": 0.95,
+          "count_basis": "reconstructed_whole"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "将3个青椒放在砧板上切成段。",
+      "source_chunks": [
+        1
+      ]
+    },
+    {
+      "id": "event_003",
+      "start": 28,
+      "end": 44,
+      "action": "chop",
+      "action_group": "chop",
+      "action_group_zh": "切食材",
+      "raw_action": "chop",
+      "ingredient": "small_chili",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "small_chili"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "small_chili",
+          "whole_count": 4,
+          "count_confidence": 0.9,
+          "count_basis": "whole_visible"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "将4个红色小米辣切成段，旁边有已切好的青椒。",
+      "source_chunks": [
+        1
+      ]
+    },
+    {
+      "id": "event_004",
+      "start": 44,
+      "end": 54,
+      "action": "chop",
+      "action_group": "chop",
+      "action_group_zh": "切食材",
+      "raw_action": "chop",
+      "ingredient": "garlic",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "garlic"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "garlic",
+          "whole_count": 4,
+          "count_confidence": 0.85,
+          "count_basis": "whole_visible"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.85,
+      "description": "将4瓣大蒜切片，旁边碗中有切好的辣椒。",
+      "source_chunks": [
+        1
+      ]
+    },
+    {
+      "id": "event_005",
+      "start": 54,
+      "end": 60,
+      "action": "idle",
+      "action_group": "none",
+      "action_group_zh": "不处理",
+      "raw_action": "idle",
+      "ingredient": "egg",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "egg"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "egg",
+          "whole_count": 3,
+          "count_confidence": 1,
+          "count_basis": "whole_visible"
+        },
+        {
+          "name": "garlic",
+          "whole_count": null,
+          "count_confidence": 0,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 1,
+      "description": "展示3个带壳鸡蛋并放入空碗中准备打蛋。",
+      "source_chunks": [
+        1
+      ]
+    },
+    {
+      "id": "event_006",
+      "start": 57,
+      "end": 65.5,
+      "action": "chop",
+      "action_group": "chop",
+      "action_group_zh": "切食材",
+      "raw_action": "chop",
+      "ingredient": "egg",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "egg"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "egg",
+          "whole_count": 3,
+          "count_confidence": 1,
+          "count_basis": "reconstructed_whole"
+        },
+        {
+          "name": "garlic",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "Cracking 3 eggs into a metal bowl.",
+      "source_chunks": [
+        2
+      ]
+    },
+    {
+      "id": "event_007",
+      "start": 68,
+      "end": 106,
+      "action": "chop",
+      "action_group": "chop",
+      "action_group_zh": "切食材",
+      "raw_action": "chop",
+      "ingredient": "pork",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "pork"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": 1,
+          "count_confidence": 1,
+          "count_basis": "reconstructed_whole"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.98,
+      "description": "Slicing a piece of pork into thin slices on a wooden cutting board.",
+      "source_chunks": [
+        2
+      ]
+    },
+    {
+      "id": "event_008",
+      "start": 111,
+      "end": 117,
+      "action": "marinate",
+      "action_group": "marinate",
+      "action_group_zh": "腌制",
+      "raw_action": "marinate",
+      "ingredient": "pork",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "pork"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "Adding white powder seasoning to sliced pork in a glass bowl.",
+      "source_chunks": [
+        2
+      ]
+    },
+    {
+      "id": "event_009",
+      "start": 114,
+      "end": 116.5,
+      "action": "seasoning",
+      "action_group": "none",
+      "action_group_zh": "不处理",
+      "raw_action": "seasoning",
+      "ingredient": "pork",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "pork"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "向切好的猪肉片中加入白色粉末状调料（盐或糖）。",
+      "source_chunks": [
+        3
+      ]
+    },
+    {
+      "id": "event_010",
+      "start": 116.5,
+      "end": 132,
+      "action": "add_liquid",
+      "action_group": "add_liquid",
+      "action_group_zh": "不处理",
+      "raw_action": "add_liquid",
+      "ingredient": "pork",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "pork"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "向猪肉中依次倒入浅黄色液体（料酒）和深褐色液体（酱油/生抽）。",
+      "source_chunks": [
+        3
+      ]
+    },
+    {
+      "id": "event_011",
+      "start": 132,
+      "end": 148,
+      "action": "marinate",
+      "action_group": "marinate",
+      "action_group_zh": "腌制",
+      "raw_action": "marinate",
+      "ingredient": "pork",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "pork"
+      ],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "用手在碗中抓拌猪肉，使其均匀吸收调料进行腌制。",
+      "source_chunks": [
+        3
+      ]
+    },
+    {
+      "id": "event_012",
+      "start": 148,
+      "end": 164,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "green_pepper",
+      "cooking_scope": "solo",
+      "target_ingredients": [
+        "green_pepper"
+      ],
+      "pan_ingredients": [
+        "green_pepper"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "将青椒块放入热锅中干煸翻炒，直至表皮起皱变软。",
+      "source_chunks": [
+        3
+      ]
+    },
+    {
+      "id": "event_013",
+      "start": 164,
+      "end": 182,
+      "action": "plate",
+      "action_group": "plate",
+      "action_group_zh": "装盘",
+      "raw_action": "plate",
+      "ingredient": "green_pepper",
+      "cooking_scope": "solo",
+      "target_ingredients": [
+        "green_pepper"
+      ],
+      "pan_ingredients": [
+        "green_pepper"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "用锅铲将炒软的青椒盛出，放入旁边的不锈钢盆中备用。 / 将锅中炒过的青椒盛入不锈钢盘中。",
+      "source_chunks": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "event_014",
+      "start": 183,
+      "end": 205,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "egg",
+      "cooking_scope": "solo",
+      "target_ingredients": [
+        "egg"
+      ],
+      "pan_ingredients": [
+        "egg"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "egg",
+          "whole_count": 4,
+          "count_confidence": 0.95,
+          "count_basis": "whole_visible"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "打入鸡蛋煎熟后翻炒，最后盛出备用。",
+      "source_chunks": [
+        4
+      ]
+    },
+    {
+      "id": "event_015",
+      "start": 206,
+      "end": 209,
+      "action": "add_liquid",
+      "action_group": "add_liquid",
+      "action_group_zh": "不处理",
+      "raw_action": "add_liquid",
+      "ingredient": "unknown",
+      "cooking_scope": "unknown",
+      "target_ingredients": [],
+      "pan_ingredients": [],
+      "visible_ingredients": [],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.8,
+      "description": "向空锅中倒入食用油。",
+      "source_chunks": [
+        4
+      ]
+    },
+    {
+      "id": "event_016",
+      "start": 210,
+      "end": 214,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "garlic",
+      "cooking_scope": "solo",
+      "target_ingredients": [
+        "garlic"
+      ],
+      "pan_ingredients": [
+        "garlic"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "garlic",
+          "whole_count": null,
+          "count_confidence": 0.6,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "放入蒜片在热油中煸炒出香味。",
+      "source_chunks": [
+        4
+      ]
+    },
+    {
+      "id": "event_017",
+      "start": 215,
+      "end": 226,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "pork",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "pork"
+      ],
+      "pan_ingredients": [
+        "garlic",
+        "pork"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "garlic",
+          "whole_count": null,
+          "count_confidence": 0.6,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "倒入腌制好的肉片与蒜片一同翻炒至变色。",
+      "source_chunks": [
+        4
+      ]
+    },
+    {
+      "id": "event_018",
+      "start": 227,
+      "end": 230,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "green_pepper",
+      "cooking_scope": "mixed",
+      "target_ingredients": [
+        "green_pepper",
+        "pork"
+      ],
+      "pan_ingredients": [
+        "garlic",
+        "green_pepper",
+        "pork"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "garlic",
+          "whole_count": null,
+          "count_confidence": 0.6,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "将之前盛出的青椒倒回锅中与肉片混合翻炒。",
+      "source_chunks": [
+        4
+      ]
+    },
+    {
+      "id": "event_019",
+      "start": 228,
+      "end": 233,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "pork",
+      "cooking_scope": "mixed",
+      "target_ingredients": [
+        "green_pepper",
+        "pork"
+      ],
+      "pan_ingredients": [
+        "green_pepper",
+        "pork"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "Stir-frying pork slices and green pepper chunks in a wok.",
+      "source_chunks": [
+        5
+      ]
+    },
+    {
+      "id": "event_020",
+      "start": 233,
+      "end": 235,
+      "action": "add_liquid",
+      "action_group": "add_liquid",
+      "action_group_zh": "不处理",
+      "raw_action": "add_liquid",
+      "ingredient": "small_chili",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "small_chili"
+      ],
+      "pan_ingredients": [
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "Adding chopped small red chilies from a plastic container into the wok.",
+      "source_chunks": [
+        5
+      ]
+    },
+    {
+      "id": "event_021",
+      "start": 235,
+      "end": 240,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "small_chili",
+      "cooking_scope": "mixed",
+      "target_ingredients": [
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "pan_ingredients": [
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "Stir-frying the mixture of pork, green peppers, and small chilies.",
+      "source_chunks": [
+        5
+      ]
+    },
+    {
+      "id": "event_022",
+      "start": 240,
+      "end": 260,
+      "action": "seasoning",
+      "action_group": "none",
+      "action_group_zh": "不处理",
+      "raw_action": "seasoning",
+      "ingredient": "unknown",
+      "cooking_scope": "mixed",
+      "target_ingredients": [
+        "green_pepper",
+        "pork"
+      ],
+      "pan_ingredients": [
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.8,
+      "description": "Adding various liquid seasonings (soy sauce, oyster sauce) and salt to the wok.",
+      "source_chunks": [
+        5
+      ]
+    },
+    {
+      "id": "event_023",
+      "start": 260,
+      "end": 262,
+      "action": "add_liquid",
+      "action_group": "add_liquid",
+      "action_group_zh": "不处理",
+      "raw_action": "add_liquid",
+      "ingredient": "egg",
+      "cooking_scope": "unknown",
+      "target_ingredients": [
+        "egg"
+      ],
+      "pan_ingredients": [
+        "egg",
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "egg",
+          "whole_count": 1,
+          "count_confidence": 0.9,
+          "count_basis": "whole_visible"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "Pouring pre-cooked scrambled egg pieces from a bowl into the wok.",
+      "source_chunks": [
+        5
+      ]
+    },
+    {
+      "id": "event_024",
+      "start": 262,
+      "end": 278,
+      "action": "stir_fry",
+      "action_group": "stir_fry",
+      "action_group_zh": "炒菜",
+      "raw_action": "stir_fry",
+      "ingredient": "egg",
+      "cooking_scope": "mixed",
+      "target_ingredients": [
+        "egg",
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "pan_ingredients": [
+        "egg",
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "egg",
+          "whole_count": 1,
+          "count_confidence": 0.9,
+          "count_basis": "reconstructed_whole"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.9,
+      "description": "Stir-frying all ingredients together to combine flavors.",
+      "source_chunks": [
+        5
+      ]
+    },
+    {
+      "id": "event_025",
+      "start": 278,
+      "end": 306.5,
+      "action": "plate",
+      "action_group": "plate",
+      "action_group_zh": "装盘",
+      "raw_action": "plate",
+      "ingredient": "egg",
+      "cooking_scope": "mixed",
+      "target_ingredients": [
+        "egg",
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "pan_ingredients": [
+        "egg",
+        "green_pepper",
+        "pork",
+        "small_chili"
+      ],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "video_tracking"
+        },
+        {
+          "name": "egg",
+          "whole_count": 1,
+          "count_confidence": 0.9,
+          "count_basis": "reconstructed_whole"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "Scooping the finished stir-fry out of the wok onto a white plate. / Using a spatula to transfer the stir-fried mixture of pork, green peppers, eggs, and small chilies from the wok onto a white plate.",
+      "source_chunks": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "event_026",
+      "start": 306.5,
+      "end": 315.47,
+      "action": "idle",
+      "action_group": "none",
+      "action_group_zh": "不处理",
+      "raw_action": "idle",
+      "ingredient": "unknown",
+      "cooking_scope": "unknown",
+      "target_ingredients": [],
+      "pan_ingredients": [],
+      "visible_ingredients": [
+        {
+          "name": "pork",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "green_pepper",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "egg",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        },
+        {
+          "name": "small_chili",
+          "whole_count": null,
+          "count_confidence": 0.5,
+          "count_basis": "uncertain"
+        }
+      ],
+      "ingredient_source": "visual",
+      "label_text": "",
+      "confidence": 0.95,
+      "description": "Holding up the white plate displaying the finished stir-fry dish.",
+      "source_chunks": [
+        6
+      ]
+    }
+  ],
+  "source": "demo.mp4",
+  "solo_fry_schema_version": 1,
+  "solo_fry_windows": [
+    {
+      "ingredient": "green_pepper",
+      "start": 149,
+      "end": 166,
+      "confidence": 0.95,
+      "source_events": [
+        "event_012"
+      ],
+      "coarse_start": 148,
+      "coarse_end": 164,
+      "frame_verified": true,
+      "last_solo_frame": 164,
+      "completion_frame": 166,
+      "boundary_resolution_seconds": 2
+    },
+    {
+      "ingredient": "garlic",
+      "start": 211,
+      "end": 216,
+      "confidence": 0.9,
+      "source_events": [
+        "event_016"
+      ],
+      "coarse_start": 210,
+      "coarse_end": 214,
+      "frame_verified": true,
+      "last_solo_frame": 214,
+      "completion_frame": 216,
+      "boundary_resolution_seconds": 2
+    },
+    {
+      "ingredient": "egg",
+      "start": 184,
+      "end": 199,
+      "confidence": 0.95,
+      "source_events": [
+        "event_014"
+      ],
+      "coarse_start": 183,
+      "coarse_end": 205,
+      "frame_verified": true,
+      "last_solo_frame": 197,
+      "completion_frame": 199,
+      "boundary_resolution_seconds": 2
+    }
+  ],
+  "solo_fry_frame_validation": {
+    "version": 1,
+    "model": "qwen3.7-flash",
+    "source_identity": {
+      "path": "demo.mp4",
+      "mtime_ns": 1790942158661860000,
+      "size": 478672081
+    },
+    "verified_windows": [
+      {
+        "ingredient": "green_pepper",
+        "start": 149,
+        "end": 166,
+        "confidence": 0.95,
+        "source_events": [
+          "event_012"
+        ],
+        "coarse_start": 148,
+        "coarse_end": 164,
+        "frame_verified": true,
+        "last_solo_frame": 164,
+        "completion_frame": 166,
+        "boundary_resolution_seconds": 2
+      },
+      {
+        "ingredient": "garlic",
+        "start": 211,
+        "end": 216,
+        "confidence": 0.9,
+        "source_events": [
+          "event_016"
+        ],
+        "coarse_start": 210,
+        "coarse_end": 214,
+        "frame_verified": true,
+        "last_solo_frame": 214,
+        "completion_frame": 216,
+        "boundary_resolution_seconds": 2
+      },
+      {
+        "ingredient": "egg",
+        "start": 184,
+        "end": 199,
+        "confidence": 0.95,
+        "source_events": [
+          "event_014"
+        ],
+        "coarse_start": 183,
+        "coarse_end": 205,
+        "frame_verified": true,
+        "last_solo_frame": 197,
+        "completion_frame": 199,
+        "boundary_resolution_seconds": 2
+      }
+    ],
+    "verified_at": 1791398717.2104006
+  },
+  "chop_schema_version": 1,
+  "chop_windows": [
+    {
+      "ingredient": "pork",
+      "start": 68,
+      "end": 106,
+      "confidence": 0.98,
+      "source_events": [
+        "event_007"
+      ]
+    },
+    {
+      "ingredient": "green_pepper",
+      "start": 4,
+      "end": 28,
+      "confidence": 0.95,
+      "source_events": [
+        "event_002"
+      ]
+    },
+    {
+      "ingredient": "garlic",
+      "start": 44,
+      "end": 54,
+      "confidence": 0.85,
+      "source_events": [
+        "event_004"
+      ]
+    },
+    {
+      "ingredient": "egg",
+      "start": 57,
+      "end": 65.5,
+      "confidence": 0.95,
+      "source_events": [
+        "event_006"
+      ]
+    },
+    {
+      "ingredient": "small_chili",
+      "start": 28,
+      "end": 44,
+      "confidence": 0.9,
+      "source_events": [
+        "event_003"
+      ]
+    }
+  ],
+  "serving_plan": {
+    "schema_version": 1,
+    "events_sha256": "17e7bf8459fb4fe68ccca4ab2ebb3b9ce4765a0649dfd022541dadc19a30629f",
+    "source": {
+      "path": "demo.mp4",
+      "size": 478672081,
+      "mtime_ns": 1790942158661860000
+    },
+    "model": "qwen3.7-flash",
+    "complete": true,
+    "annotation_source": "full_video_api_timeline_context",
+    "windows": [
+      {
+        "event_id": "event_013",
+        "role": "temporary",
+        "confidence": 1.0,
+        "evidence_event_ids": [
+          "event_014",
+          "event_016",
+          "event_017",
+          "event_018",
+          "event_019",
+          "event_021",
+          "event_024"
+        ]
+      },
+      {
+        "event_id": "event_025",
+        "role": "final",
+        "confidence": 0.95,
+        "evidence_event_ids": [
+          "event_026"
+        ]
+      }
+    ],
+    "finished_display_event_ids": [
+      "event_026"
+    ],
+    "final_dish_ingredients": [
+      "pork",
+      "egg",
+      "garlic",
+      "small_chili",
+      "green_pepper"
+    ]
+  },
+  "egg_crack_plan": {
+    "source": {
+      "path": "demo.mp4",
+      "size": 478672081,
+      "mtime_ns": 1790942158661860000
+    },
+    "event_id": "event_006",
+    "seconds": [
+      58.8,
+      61.6,
+      64.6
+    ]
+  }
+}

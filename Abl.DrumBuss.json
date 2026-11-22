@@ -1,0 +1,503 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.DrumBuss",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.0 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 9200.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.2 ],
+					"Freq" : [ 50.0 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.0 ],
+					"Trim" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Boom in A",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.503937007874015 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.0 ],
+					"Freq" : [ 55.000000092390984 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.0 ],
+					"Trim" : [ -3.307086614173238 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Boom in D",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.79527559055118 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.196850393700787 ],
+					"Damp" : [ 6090.427180854395374 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.196850393700787 ],
+					"Freq" : [ 36.708096063329663 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ -0.204724409448819 ],
+					"Trim" : [ -4.960629921259865 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Compression Gate",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.0 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.45 ],
+					"Freq" : [ 50.0 ],
+					"Gain" : [ -4.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ -0.45 ],
+					"Trim" : [ -11.999999999999996 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "Crisp Boom in C",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.83 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.92 ],
+					"Damp" : [ 15800.0 ],
+					"Decay" : [ 0.65 ],
+					"Dist" : [ 1.0 ],
+					"Drive" : [ 0.83 ],
+					"Freq" : [ 64.599999999999994 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ -0.67 ],
+					"Trim" : [ -29.800000000000001 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Crisp Comp in G",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.18 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 1.0 ],
+					"Drive" : [ 0.0 ],
+					"Freq" : [ 49.0 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 1.0 ],
+					"Trim" : [ -10.6 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "Drum Pumper",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.0 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.5 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.0 ],
+					"Freq" : [ 49.0 ],
+					"Gain" : [ -5.078740157480311 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.75 ],
+					"Trim" : [ -6.0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "Drum Sharpener",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.0 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.0 ],
+					"Freq" : [ 50.0 ],
+					"Gain" : [ -2.031496062992123 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.513779527559056 ],
+					"Trim" : [ -3.0 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"name" : "Drum Softener",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.0 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.0 ],
+					"Freq" : [ 50.0 ],
+					"Gain" : [ 1.015748031496056 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ -0.557086614173226 ],
+					"Trim" : [ -9.062992125984247 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"name" : "Fat & Ruff in E",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.63 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 9200.0 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.7 ],
+					"Freq" : [ 41.203444692936962 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.38 ],
+					"Trim" : [ -10.9 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"name" : "Full Boom in E",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 1.0 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.53 ],
+					"Damp" : [ 8810.000000000001819 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.6 ],
+					"Freq" : [ 41.203444692936962 ],
+					"Gain" : [ -2.370078740157481 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.49 ],
+					"Trim" : [ -17.5 ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"name" : "Instant Mayhem",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.0 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.66 ],
+					"Damp" : [ 5359.999999999999091 ],
+					"Decay" : [ 1.0 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.66 ],
+					"Freq" : [ 50.0 ],
+					"Gain" : [ -5.078740157480311 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.49 ],
+					"Trim" : [ -6.0 ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"name" : "Muffled Crunch in E",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.52 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 1.0 ],
+					"Damp" : [ 970.0 ],
+					"Decay" : [ 0.88 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.56 ],
+					"Freq" : [ 41.203444692936962 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.49 ],
+					"Trim" : [ -9.369999999999999 ]
+				}
+
+			}
+,
+			"14" : 			{
+				"id" : 14,
+				"name" : "Punch Bass in G",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.78771653543307 ],
+					"Comp" : [ 0.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 0.919370078740157 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.0 ],
+					"Freq" : [ 48.999429584602495 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.615984251968504 ],
+					"Trim" : [ -11.023543307086607 ]
+				}
+
+			}
+,
+			"15" : 			{
+				"id" : 15,
+				"name" : "Punch Boom in C",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.52 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.44 ],
+					"Damp" : [ 6020.000000000000909 ],
+					"Decay" : [ 0.85 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.59 ],
+					"Freq" : [ 65.200000000000003 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.78 ],
+					"Trim" : [ -30.5 ]
+				}
+
+			}
+,
+			"16" : 			{
+				"id" : 16,
+				"name" : "Punchy Driven",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.34 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.38 ],
+					"Damp" : [ 9070.0 ],
+					"Decay" : [ 0.11 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.41 ],
+					"Freq" : [ 65.400000000000006 ],
+					"Gain" : [ -2.92 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ -0.71 ],
+					"Trim" : [ -15.0 ]
+				}
+
+			}
+,
+			"17" : 			{
+				"id" : 17,
+				"name" : "Squeeze & Drive in G",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.83 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.44 ],
+					"Damp" : [ 9200.0 ],
+					"Decay" : [ 0.14 ],
+					"Dist" : [ 2.0 ],
+					"Drive" : [ 0.76 ],
+					"Freq" : [ 48.999429584602495 ],
+					"Gain" : [ 0.0 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.56 ],
+					"Trim" : [ -20.600000000000001 ]
+				}
+
+			}
+,
+			"18" : 			{
+				"id" : 18,
+				"name" : "Transient Shaping Enhance",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.16 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.24 ],
+					"Damp" : [ 13700.0 ],
+					"Decay" : [ 0.29 ],
+					"Dist" : [ 0.0 ],
+					"Drive" : [ 0.5 ],
+					"Freq" : [ 74.299999999999997 ],
+					"Gain" : [ -3.66 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.21 ],
+					"Trim" : [ -10.0 ]
+				}
+
+			}
+,
+			"19" : 			{
+				"id" : 19,
+				"name" : "Transient Shift Decay",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Boom" : [ 0.19 ],
+					"Comp" : [ 1.0 ],
+					"Crunch" : [ 0.0 ],
+					"Damp" : [ 8810.000000000001819 ],
+					"Decay" : [ 0.93 ],
+					"Dist" : [ 1.0 ],
+					"Drive" : [ 0.095 ],
+					"Freq" : [ 82.400000000000006 ],
+					"Gain" : [ -4.78 ],
+					"Mix" : [ 1.0 ],
+					"ModInA" : [ "None" ],
+					"ModInB" : [ "None" ],
+					"ModOutA" : [ "None" ],
+					"ModOutB" : [ "None" ],
+					"Solo" : [ 0.0 ],
+					"Trans" : [ 0.7 ],
+					"Trim" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

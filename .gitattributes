@@ -1,0 +1,7 @@
+*.wav binary
+*.maxpat -text
+*.maxsnap -text
+*.py text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.md text eol=lf

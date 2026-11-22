@@ -1,0 +1,269 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.Utility",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Invert L",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 1.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Invert R",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 1.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Mono",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 1.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "MS",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Left",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ -50.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "Right",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 50.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"name" : "Mono Bass",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 1.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"name" : "Solo Bass",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 1.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 0.0 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"name" : "Mute",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Bal" : [ 0.0 ],
+					"BassMono" : [ 0.0 ],
+					"BassMonoAudition" : [ 0.0 ],
+					"Chans" : [ 1.0 ],
+					"DC" : [ 0.0 ],
+					"Freq" : [ 120.0 ],
+					"Gain" : [ -0.000000000000002 ],
+					"InvertLeftPhase" : [ 0.0 ],
+					"InvertRightPhase" : [ 0.0 ],
+					"M/S" : [ 0.0 ],
+					"MS" : [ 0.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Mono" : [ 0.0 ],
+					"Mute" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

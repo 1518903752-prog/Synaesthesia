@@ -1,0 +1,2252 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "demo.mp4",
+    "size": 478672081,
+    "mtime_ns": 1790942158661860000
+  },
+  "duration_seconds": 315.47,
+  "final_dish_ingredients": [
+    "pork",
+    "egg",
+    "garlic",
+    "small_chili",
+    "green_pepper"
+  ],
+  "events": [
+    {
+      "id": "event_001",
+      "start": 0.0,
+      "end": 4.0,
+      "action": "wash",
+      "targets": [
+        "green_pepper"
+      ],
+      "pan": [],
+      "visible": [
+        "green_pepper"
+      ],
+      "counts": {
+        "green_pepper": 3
+      },
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": "preparation",
+      "active_foods": [
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_002",
+      "start": 4.0,
+      "end": 28.0,
+      "action": "chop",
+      "targets": [
+        "green_pepper"
+      ],
+      "pan": [],
+      "visible": [
+        "green_pepper"
+      ],
+      "counts": {
+        "green_pepper": 3
+      },
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": "preparation",
+      "active_foods": [
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_003",
+      "start": 28.0,
+      "end": 44.0,
+      "action": "chop",
+      "targets": [
+        "small_chili"
+      ],
+      "pan": [],
+      "visible": [
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "small_chili": 4
+      },
+      "scope": "unknown",
+      "confidence": 0.9,
+      "stage": "preparation",
+      "active_foods": [
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_004",
+      "start": 44.0,
+      "end": 54.0,
+      "action": "chop",
+      "targets": [
+        "garlic"
+      ],
+      "pan": [],
+      "visible": [
+        "garlic",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "garlic": 4
+      },
+      "scope": "unknown",
+      "confidence": 0.85,
+      "stage": "preparation",
+      "active_foods": [
+        "garlic",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_005",
+      "start": 54.0,
+      "end": 60.0,
+      "action": "none",
+      "targets": [
+        "egg"
+      ],
+      "pan": [],
+      "visible": [
+        "egg",
+        "garlic",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "egg": 3
+      },
+      "scope": "unknown",
+      "confidence": 1.0,
+      "stage": null,
+      "active_foods": [
+        "egg",
+        "garlic",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_006",
+      "start": 57.0,
+      "end": 65.5,
+      "action": "crack",
+      "targets": [
+        "egg"
+      ],
+      "pan": [],
+      "visible": [
+        "egg",
+        "garlic",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "egg": 3
+      },
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": "preparation",
+      "active_foods": [
+        "egg",
+        "garlic",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_007",
+      "start": 68.0,
+      "end": 106.0,
+      "action": "chop",
+      "targets": [
+        "pork"
+      ],
+      "pan": [],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "pork": 1
+      },
+      "scope": "unknown",
+      "confidence": 0.98,
+      "stage": "preparation",
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_008",
+      "start": 111.0,
+      "end": 117.0,
+      "action": "marinate",
+      "targets": [
+        "pork"
+      ],
+      "pan": [],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.9,
+      "stage": "marinating",
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_009",
+      "start": 114.0,
+      "end": 116.5,
+      "action": "none",
+      "targets": [
+        "pork"
+      ],
+      "pan": [],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": null,
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_010",
+      "start": 116.5,
+      "end": 132.0,
+      "action": "add_liquid",
+      "targets": [
+        "pork"
+      ],
+      "pan": [],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": null,
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_011",
+      "start": 132.0,
+      "end": 148.0,
+      "action": "marinate",
+      "targets": [
+        "pork"
+      ],
+      "pan": [],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": "marinating",
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_012",
+      "start": 148.0,
+      "end": 164.0,
+      "action": "stir_fry",
+      "targets": [
+        "green_pepper"
+      ],
+      "pan": [
+        "green_pepper"
+      ],
+      "visible": [
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "solo",
+      "confidence": 0.95,
+      "stage": "cooking",
+      "active_foods": [
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_013",
+      "start": 164.0,
+      "end": 182.0,
+      "action": "plate",
+      "targets": [
+        "green_pepper"
+      ],
+      "pan": [
+        "green_pepper"
+      ],
+      "visible": [
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "solo",
+      "confidence": 0.95,
+      "stage": "cooking",
+      "active_foods": [
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_014",
+      "start": 183.0,
+      "end": 205.0,
+      "action": "stir_fry",
+      "targets": [
+        "egg"
+      ],
+      "pan": [
+        "egg"
+      ],
+      "visible": [
+        "egg"
+      ],
+      "counts": {
+        "egg": 4
+      },
+      "scope": "solo",
+      "confidence": 0.95,
+      "stage": "cooking",
+      "active_foods": [
+        "egg"
+      ]
+    },
+    {
+      "id": "event_015",
+      "start": 206.0,
+      "end": 209.0,
+      "action": "add_liquid",
+      "targets": [],
+      "pan": [],
+      "visible": [],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.8,
+      "stage": null,
+      "active_foods": []
+    },
+    {
+      "id": "event_016",
+      "start": 210.0,
+      "end": 214.0,
+      "action": "stir_fry",
+      "targets": [
+        "garlic"
+      ],
+      "pan": [
+        "garlic"
+      ],
+      "visible": [
+        "garlic"
+      ],
+      "counts": {},
+      "scope": "solo",
+      "confidence": 0.9,
+      "stage": "cooking",
+      "active_foods": [
+        "garlic"
+      ]
+    },
+    {
+      "id": "event_017",
+      "start": 215.0,
+      "end": 226.0,
+      "action": "stir_fry",
+      "targets": [
+        "pork"
+      ],
+      "pan": [
+        "pork",
+        "garlic"
+      ],
+      "visible": [
+        "pork",
+        "garlic"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.9,
+      "stage": "cooking",
+      "active_foods": [
+        "pork",
+        "garlic"
+      ]
+    },
+    {
+      "id": "event_018",
+      "start": 227.0,
+      "end": 230.0,
+      "action": "stir_fry",
+      "targets": [
+        "pork",
+        "green_pepper"
+      ],
+      "pan": [
+        "pork",
+        "garlic",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "garlic",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "mixed",
+      "confidence": 0.9,
+      "stage": "cooking",
+      "active_foods": [
+        "pork",
+        "garlic",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_019",
+      "start": 228.0,
+      "end": 233.0,
+      "action": "stir_fry",
+      "targets": [
+        "pork",
+        "green_pepper"
+      ],
+      "pan": [
+        "pork",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "mixed",
+      "confidence": 0.9,
+      "stage": "cooking",
+      "active_foods": [
+        "pork",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_020",
+      "start": 233.0,
+      "end": 235.0,
+      "action": "add_liquid",
+      "targets": [
+        "small_chili"
+      ],
+      "pan": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.9,
+      "stage": null,
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_021",
+      "start": 235.0,
+      "end": 240.0,
+      "action": "stir_fry",
+      "targets": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "pan": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "mixed",
+      "confidence": 0.9,
+      "stage": "cooking",
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_022",
+      "start": 240.0,
+      "end": 260.0,
+      "action": "none",
+      "targets": [
+        "pork",
+        "green_pepper"
+      ],
+      "pan": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "mixed",
+      "confidence": 0.8,
+      "stage": null,
+      "active_foods": [
+        "pork",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_023",
+      "start": 260.0,
+      "end": 262.0,
+      "action": "add_liquid",
+      "targets": [
+        "egg"
+      ],
+      "pan": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "egg": 1
+      },
+      "scope": "unknown",
+      "confidence": 0.9,
+      "stage": null,
+      "active_foods": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_024",
+      "start": 262.0,
+      "end": 278.0,
+      "action": "stir_fry",
+      "targets": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "pan": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "egg": 1
+      },
+      "scope": "mixed",
+      "confidence": 0.9,
+      "stage": "cooking",
+      "active_foods": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_025",
+      "start": 278.0,
+      "end": 306.5,
+      "action": "plate",
+      "targets": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "pan": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "visible": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {
+        "egg": 1
+      },
+      "scope": "mixed",
+      "confidence": 0.95,
+      "stage": "plating",
+      "active_foods": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ]
+    },
+    {
+      "id": "event_026",
+      "start": 306.5,
+      "end": 315.47,
+      "action": "none",
+      "targets": [],
+      "pan": [],
+      "visible": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ],
+      "counts": {},
+      "scope": "unknown",
+      "confidence": 0.95,
+      "stage": "plating",
+      "active_foods": [
+        "pork",
+        "egg",
+        "small_chili",
+        "green_pepper"
+      ]
+    }
+  ],
+  "analysis_fingerprint": "ed0310ef6f646d4d8bc32ea0ad6de4aaaf781a5269f04e4dff96bdf134351c4d",
+  "instrument_map": {
+    "pork": "vocal",
+    "egg": "bass",
+    "garlic": "pluck",
+    "small_chili": "lead",
+    "green_pepper": "pad"
+  },
+  "solo_fry": {
+    "green_pepper": [
+      149.0,
+      166.0
+    ],
+    "garlic": [
+      211.0,
+      216.0
+    ],
+    "egg": [
+      184.0,
+      199.0
+    ],
+    "pork": [
+      215.0,
+      226.0
+    ]
+  },
+  "chop": {
+    "pork": [
+      68.0,
+      106.0
+    ],
+    "green_pepper": [
+      4.0,
+      28.0
+    ],
+    "garlic": [
+      44.0,
+      54.0
+    ],
+    "small_chili": [
+      28.0,
+      44.0
+    ]
+  },
+  "egg_cracks": [
+    58.8,
+    61.6,
+    64.6
+  ],
+  "marinate": {
+    "pork": [
+      111.0,
+      148.0
+    ]
+  },
+  "features": {
+    "pork": [
+      {
+        "seconds": 69.0,
+        "brightness": 0.6005,
+        "saturation": 0.3548,
+        "area": 0.059,
+        "form": "pieces",
+        "fragmentation": 0.5,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_00_pork.jpg",
+        "bbox": [
+          293.0,
+          518.0,
+          467.0,
+          857.0
+        ],
+        "confidence": 0.95
+      },
+      {
+        "seconds": 105.3,
+        "brightness": 0.5449,
+        "saturation": 0.3717,
+        "area": 0.273,
+        "form": "sliced",
+        "fragmentation": 0.65,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_01_pork.jpg",
+        "bbox": [
+          33.0,
+          452.0,
+          579.0,
+          952.0
+        ],
+        "confidence": 0.95
+      },
+      {
+        "seconds": 217.0,
+        "brightness": 0.6732,
+        "saturation": 0.5206,
+        "area": 0.1601,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          367.188,
+          275.0,
+          698.438,
+          758.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 215.0
+      },
+      {
+        "seconds": 219.0,
+        "brightness": 0.6906,
+        "saturation": 0.5315,
+        "area": 0.1315,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          412.5,
+          269.444,
+          704.688,
+          719.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 217.0
+      },
+      {
+        "seconds": 221.0,
+        "brightness": 0.6985,
+        "saturation": 0.505,
+        "area": 0.1365,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          328.125,
+          338.889,
+          671.875,
+          736.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 219.0
+      },
+      {
+        "seconds": 223.0,
+        "brightness": 0.7056,
+        "saturation": 0.5074,
+        "area": 0.1673,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          359.375,
+          300.0,
+          679.688,
+          822.222
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 221.0
+      },
+      {
+        "seconds": 225.0,
+        "brightness": 0.6862,
+        "saturation": 0.4938,
+        "area": 0.1626,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          382.812,
+          347.222,
+          737.5,
+          805.556
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 223.0
+      },
+      {
+        "seconds": 226.0,
+        "brightness": 0.6574,
+        "saturation": 0.4973,
+        "area": 0.2071,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          359.375,
+          333.333,
+          743.75,
+          872.222
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 225.0
+      },
+      {
+        "seconds": 229.0,
+        "brightness": 0.6651,
+        "saturation": 0.5236,
+        "area": 0.167,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          409.375,
+          355.556,
+          734.375,
+          869.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": 227.0
+      },
+      {
+        "seconds": 231.0,
+        "brightness": 0.6333,
+        "saturation": 0.5206,
+        "area": 0.1994,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          387.5,
+          280.556,
+          735.938,
+          852.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": 229.0
+      },
+      {
+        "seconds": 233.0,
+        "brightness": 0.6411,
+        "saturation": 0.4686,
+        "area": 0.1985,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          387.5,
+          280.556,
+          734.375,
+          852.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": 231.0
+      },
+      {
+        "seconds": 235.0,
+        "brightness": 0.6356,
+        "saturation": 0.5009,
+        "area": 0.2013,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          385.938,
+          283.333,
+          734.375,
+          861.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 237.0,
+        "brightness": 0.7112,
+        "saturation": 0.4828,
+        "area": 0.2288,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          292.188,
+          280.556,
+          737.5,
+          794.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 235.0
+      },
+      {
+        "seconds": 239.0,
+        "brightness": 0.6753,
+        "saturation": 0.5017,
+        "area": 0.2115,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          354.688,
+          261.111,
+          729.688,
+          825.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 237.0
+      },
+      {
+        "seconds": 240.0,
+        "brightness": 0.7035,
+        "saturation": 0.4604,
+        "area": 0.2096,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          328.125,
+          319.444,
+          735.938,
+          833.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 239.0
+      },
+      {
+        "seconds": 262.0,
+        "brightness": 0.6754,
+        "saturation": 0.5093,
+        "area": 0.2055,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          321.875,
+          338.889,
+          732.812,
+          838.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 264.0,
+        "brightness": 0.6171,
+        "saturation": 0.5612,
+        "area": 0.1726,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          360.938,
+          366.667,
+          682.812,
+          902.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 262.0
+      },
+      {
+        "seconds": 266.0,
+        "brightness": 0.6278,
+        "saturation": 0.5786,
+        "area": 0.1989,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          307.812,
+          344.444,
+          664.062,
+          902.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 264.0
+      },
+      {
+        "seconds": 268.0,
+        "brightness": 0.566,
+        "saturation": 0.6469,
+        "area": 0.2205,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          384.375,
+          252.778,
+          725.0,
+          900.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 266.0
+      },
+      {
+        "seconds": 270.0,
+        "brightness": 0.6279,
+        "saturation": 0.6192,
+        "area": 0.1968,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          371.875,
+          319.444,
+          710.938,
+          900.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 268.0
+      },
+      {
+        "seconds": 272.0,
+        "brightness": 0.645,
+        "saturation": 0.6358,
+        "area": 0.2509,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          353.125,
+          247.222,
+          737.5,
+          900.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 270.0
+      },
+      {
+        "seconds": 274.0,
+        "brightness": 0.6901,
+        "saturation": 0.6096,
+        "area": 0.2769,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          301.562,
+          227.778,
+          760.938,
+          830.556
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 272.0
+      },
+      {
+        "seconds": 276.0,
+        "brightness": 0.5878,
+        "saturation": 0.6798,
+        "area": 0.2051,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          353.125,
+          286.111,
+          750.0,
+          802.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 274.0
+      },
+      {
+        "seconds": 278.0,
+        "brightness": 0.635,
+        "saturation": 0.6531,
+        "area": 0.1783,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          390.625,
+          322.222,
+          737.5,
+          836.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 276.0
+      }
+    ],
+    "egg": [
+      {
+        "seconds": 64.8,
+        "brightness": 0.5319,
+        "saturation": 0.4129,
+        "area": 0.063,
+        "form": "liquid",
+        "fragmentation": null,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_03_egg.jpg",
+        "bbox": [
+          270.0,
+          350.0,
+          480.0,
+          650.0
+        ],
+        "confidence": 0.9
+      },
+      {
+        "seconds": 197,
+        "brightness": 0.8579,
+        "saturation": 0.6816,
+        "area": 0.0074,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          390.625,
+          427.778,
+          609.375,
+          744.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 183,
+        "previous_sample": null,
+        "color_only": true
+      },
+      {
+        "seconds": 262.0,
+        "brightness": 0.8155,
+        "saturation": 0.6851,
+        "area": 0.0863,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          439.062,
+          300.0,
+          642.188,
+          725.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 264.0,
+        "brightness": 0.8007,
+        "saturation": 0.6918,
+        "area": 0.045,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          376.562,
+          488.889,
+          506.25,
+          836.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 262.0
+      },
+      {
+        "seconds": 266.0,
+        "brightness": 0.7798,
+        "saturation": 0.5629,
+        "area": 0.1327,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          364.062,
+          444.444,
+          689.062,
+          852.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 264.0
+      },
+      {
+        "seconds": 268.0,
+        "brightness": 0.6511,
+        "saturation": 0.6383,
+        "area": 0.0736,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          384.375,
+          269.444,
+          610.938,
+          594.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 266.0
+      },
+      {
+        "seconds": 270.0,
+        "brightness": 0.6087,
+        "saturation": 0.5503,
+        "area": 0.1021,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          407.812,
+          311.111,
+          657.812,
+          719.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 268.0
+      },
+      {
+        "seconds": 272.0,
+        "brightness": 0.7443,
+        "saturation": 0.6522,
+        "area": 0.0964,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          376.562,
+          266.667,
+          592.188,
+          713.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 270.0
+      },
+      {
+        "seconds": 274.0,
+        "brightness": 0.6862,
+        "saturation": 0.6624,
+        "area": 0.0751,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          301.562,
+          369.444,
+          507.812,
+          733.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 272.0
+      },
+      {
+        "seconds": 276.0,
+        "brightness": 0.7069,
+        "saturation": 0.6928,
+        "area": 0.0567,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          353.125,
+          302.778,
+          553.125,
+          586.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 274.0
+      },
+      {
+        "seconds": 278.0,
+        "brightness": 0.6871,
+        "saturation": 0.7195,
+        "area": 0.0668,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          337.5,
+          261.111,
+          568.75,
+          550.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 276.0
+      }
+    ],
+    "garlic": [
+      {
+        "seconds": 53.3,
+        "brightness": 0.4739,
+        "saturation": 0.4425,
+        "area": 0.0134,
+        "form": "pieces",
+        "fragmentation": 0.5,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_05_garlic.jpg",
+        "bbox": [
+          293.0,
+          518.0,
+          376.0,
+          679.0
+        ],
+        "confidence": 0.9
+      },
+      {
+        "seconds": 213.5,
+        "brightness": 0.7868,
+        "saturation": 0.2741,
+        "area": 0.0011,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          431.25,
+          572.222,
+          606.25,
+          727.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 210,
+        "previous_sample": null,
+        "color_only": true
+      },
+      {
+        "seconds": 217.0,
+        "brightness": 0.7312,
+        "saturation": 0.2771,
+        "area": 0.0008,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          448.438,
+          547.222,
+          473.438,
+          675.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 215.0,
+        "color_reliable": false
+      },
+      {
+        "seconds": 219.0,
+        "brightness": 0.7805,
+        "saturation": 0.3285,
+        "area": 0.0009,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          490.625,
+          672.222,
+          601.562,
+          747.222
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 217.0
+      },
+      {
+        "seconds": 221.0,
+        "brightness": 0.7905,
+        "saturation": 0.3304,
+        "area": 0.0008,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          450.0,
+          688.889,
+          665.625,
+          800.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 219.0
+      },
+      {
+        "seconds": 225.0,
+        "brightness": 0.7932,
+        "saturation": 0.3376,
+        "area": 0.0005,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          470.312,
+          780.556,
+          523.438,
+          816.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 223.0
+      },
+      {
+        "seconds": 226.0,
+        "brightness": 0.6538,
+        "saturation": 0.3344,
+        "area": 0.0004,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          470.312,
+          780.556,
+          484.375,
+          805.556
+        ],
+        "confidence": null,
+        "mixed_fry_start": 215.0,
+        "previous_sample": 225.0
+      },
+      {
+        "seconds": 227.0,
+        "brightness": 0.7001,
+        "saturation": 0.3767,
+        "area": 0.0003,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          475.0,
+          794.444,
+          487.5,
+          816.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 237.0,
+        "brightness": 0.8009,
+        "saturation": 0.3128,
+        "area": 0.0003,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          610.938,
+          802.778,
+          618.75,
+          836.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 235.0
+      },
+      {
+        "seconds": 239.0,
+        "brightness": 0.6543,
+        "saturation": 0.4383,
+        "area": 0.0005,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          700.0,
+          697.222,
+          710.938,
+          741.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 237.0
+      },
+      {
+        "seconds": 266.0,
+        "brightness": 0.8168,
+        "saturation": 0.3206,
+        "area": 0.0003,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          707.812,
+          563.889,
+          717.188,
+          597.222
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 264.0
+      },
+      {
+        "seconds": 268.0,
+        "brightness": 0.7978,
+        "saturation": 0.4776,
+        "area": 0.0004,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          712.5,
+          283.333,
+          723.438,
+          352.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 266.0
+      },
+      {
+        "seconds": 272.0,
+        "brightness": 0.7833,
+        "saturation": 0.4374,
+        "area": 0.0002,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          714.062,
+          294.444,
+          725.0,
+          308.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 270.0
+      },
+      {
+        "seconds": 274.0,
+        "brightness": 0.7803,
+        "saturation": 0.5199,
+        "area": 0.0005,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          664.062,
+          280.556,
+          720.312,
+          327.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 272.0
+      },
+      {
+        "seconds": 276.0,
+        "brightness": 0.7763,
+        "saturation": 0.4674,
+        "area": 0.0002,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          704.688,
+          277.778,
+          717.188,
+          297.222
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 274.0
+      },
+      {
+        "seconds": 278.0,
+        "brightness": 0.748,
+        "saturation": 0.4882,
+        "area": 0.0003,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          704.688,
+          277.778,
+          718.75,
+          300.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 276.0
+      }
+    ],
+    "small_chili": [
+      {
+        "seconds": 29.0,
+        "brightness": 0.4486,
+        "saturation": 0.6009,
+        "area": 0.0344,
+        "form": "whole",
+        "fragmentation": 0.0,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_06_small_chili.jpg",
+        "bbox": [
+          290.0,
+          513.0,
+          443.0,
+          738.0
+        ],
+        "confidence": 0.95
+      },
+      {
+        "seconds": 43.3,
+        "brightness": 0.521,
+        "saturation": 0.5712,
+        "area": 0.0439,
+        "form": "pieces",
+        "fragmentation": 0.5,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_07_small_chili.jpg",
+        "bbox": [
+          328.0,
+          545.0,
+          510.0,
+          786.0
+        ],
+        "confidence": 0.95
+      },
+      {
+        "seconds": 235.0,
+        "brightness": 0.5934,
+        "saturation": 0.6993,
+        "area": 0.0035,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          456.25,
+          566.667,
+          543.75,
+          913.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 237.0,
+        "brightness": 0.6569,
+        "saturation": 0.599,
+        "area": 0.0022,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          464.062,
+          311.111,
+          603.125,
+          794.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 235.0
+      },
+      {
+        "seconds": 239.0,
+        "brightness": 0.5939,
+        "saturation": 0.5942,
+        "area": 0.0002,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          528.125,
+          277.778,
+          553.125,
+          316.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 237.0
+      },
+      {
+        "seconds": 262.0,
+        "brightness": 0.6291,
+        "saturation": 0.6533,
+        "area": 0.0003,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          512.5,
+          297.222,
+          537.5,
+          338.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 266.0,
+        "brightness": 0.6637,
+        "saturation": 0.5828,
+        "area": 0.0006,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          400.0,
+          272.222,
+          421.875,
+          316.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 264.0
+      },
+      {
+        "seconds": 268.0,
+        "brightness": 0.6477,
+        "saturation": 0.6858,
+        "area": 0.0014,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          367.188,
+          311.111,
+          550.0,
+          813.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 266.0
+      },
+      {
+        "seconds": 270.0,
+        "brightness": 0.6365,
+        "saturation": 0.7558,
+        "area": 0.0028,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          404.688,
+          616.667,
+          637.5,
+          825.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 268.0
+      },
+      {
+        "seconds": 272.0,
+        "brightness": 0.5594,
+        "saturation": 0.7615,
+        "area": 0.0006,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          456.25,
+          369.444,
+          506.25,
+          847.222
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 270.0
+      },
+      {
+        "seconds": 274.0,
+        "brightness": 0.5926,
+        "saturation": 0.7212,
+        "area": 0.0026,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          492.188,
+          311.111,
+          659.375,
+          761.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 272.0
+      },
+      {
+        "seconds": 276.0,
+        "brightness": 0.6637,
+        "saturation": 0.761,
+        "area": 0.0011,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          476.562,
+          636.111,
+          518.75,
+          677.778
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 274.0
+      },
+      {
+        "seconds": 278.0,
+        "brightness": 0.5883,
+        "saturation": 0.6956,
+        "area": 0.0014,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          476.562,
+          744.444,
+          518.75,
+          811.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 276.0
+      }
+    ],
+    "green_pepper": [
+      {
+        "seconds": 1.0,
+        "brightness": 0.463,
+        "saturation": 0.2966,
+        "area": 0.1878,
+        "form": "whole",
+        "fragmentation": 0.0,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_08_green_pepper.jpg",
+        "bbox": [
+          750.0,
+          0,
+          942.0,
+          978.0
+        ],
+        "confidence": 0.99
+      },
+      {
+        "seconds": 27.3,
+        "brightness": 0.3614,
+        "saturation": 0.5103,
+        "area": 0.2154,
+        "form": "pieces",
+        "fragmentation": 0.5,
+        "image": "analysis/scores_1111/9c7b471d6bd7e2bc/references/reference_09_green_pepper.jpg",
+        "bbox": [
+          183.0,
+          363.0,
+          550.0,
+          950.0
+        ],
+        "confidence": 0.99
+      },
+      {
+        "seconds": 164,
+        "brightness": 0.5761,
+        "saturation": 0.6226,
+        "area": 0.0035,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          389.062,
+          266.667,
+          648.438,
+          713.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 148,
+        "previous_sample": null,
+        "color_only": true
+      },
+      {
+        "seconds": 229.0,
+        "brightness": 0.5788,
+        "saturation": 0.5668,
+        "area": 0.2772,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          329.688,
+          250.0,
+          743.75,
+          919.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": 227.0
+      },
+      {
+        "seconds": 231.0,
+        "brightness": 0.5696,
+        "saturation": 0.5872,
+        "area": 0.288,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          312.5,
+          258.333,
+          750.0,
+          916.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": 229.0
+      },
+      {
+        "seconds": 233.0,
+        "brightness": 0.5678,
+        "saturation": 0.5908,
+        "area": 0.2848,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          312.5,
+          263.889,
+          746.875,
+          919.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 227.0,
+        "previous_sample": 231.0
+      },
+      {
+        "seconds": 235.0,
+        "brightness": 0.5671,
+        "saturation": 0.5943,
+        "area": 0.2582,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          315.625,
+          277.778,
+          734.375,
+          894.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 237.0,
+        "brightness": 0.5806,
+        "saturation": 0.5392,
+        "area": 0.2759,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          314.062,
+          241.667,
+          729.688,
+          905.556
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 235.0
+      },
+      {
+        "seconds": 239.0,
+        "brightness": 0.5509,
+        "saturation": 0.5437,
+        "area": 0.2562,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          360.938,
+          219.444,
+          745.312,
+          886.111
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 237.0
+      },
+      {
+        "seconds": 240.0,
+        "brightness": 0.5858,
+        "saturation": 0.5546,
+        "area": 0.2825,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          329.688,
+          211.111,
+          750.0,
+          883.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 235.0,
+        "previous_sample": 239.0
+      },
+      {
+        "seconds": 262.0,
+        "brightness": 0.6177,
+        "saturation": 0.6161,
+        "area": 0.2933,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          335.938,
+          211.111,
+          750.0,
+          919.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": null
+      },
+      {
+        "seconds": 264.0,
+        "brightness": 0.5934,
+        "saturation": 0.5961,
+        "area": 0.3152,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          301.562,
+          216.667,
+          750.0,
+          919.444
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 262.0
+      },
+      {
+        "seconds": 266.0,
+        "brightness": 0.5938,
+        "saturation": 0.5767,
+        "area": 0.2902,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          301.562,
+          244.444,
+          750.0,
+          891.667
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 264.0
+      },
+      {
+        "seconds": 268.0,
+        "brightness": 0.5454,
+        "saturation": 0.6186,
+        "area": 0.2774,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          318.75,
+          233.333,
+          729.688,
+          908.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 266.0
+      },
+      {
+        "seconds": 270.0,
+        "brightness": 0.5355,
+        "saturation": 0.6388,
+        "area": 0.2828,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          325.0,
+          236.111,
+          742.188,
+          913.889
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 268.0
+      },
+      {
+        "seconds": 272.0,
+        "brightness": 0.5396,
+        "saturation": 0.6278,
+        "area": 0.2952,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          301.562,
+          247.222,
+          750.0,
+          905.556
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 270.0
+      },
+      {
+        "seconds": 274.0,
+        "brightness": 0.5338,
+        "saturation": 0.6327,
+        "area": 0.2805,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          310.938,
+          261.111,
+          750.0,
+          900.0
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 272.0
+      },
+      {
+        "seconds": 276.0,
+        "brightness": 0.5165,
+        "saturation": 0.6425,
+        "area": 0.2268,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          343.75,
+          250.0,
+          750.0,
+          808.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 274.0
+      },
+      {
+        "seconds": 278.0,
+        "brightness": 0.5113,
+        "saturation": 0.6421,
+        "area": 0.2847,
+        "form": null,
+        "fragmentation": null,
+        "image": null,
+        "bbox": [
+          301.562,
+          216.667,
+          745.312,
+          858.333
+        ],
+        "confidence": null,
+        "mixed_fry_start": 262.0,
+        "previous_sample": 276.0
+      }
+    ]
+  },
+  "final_event": {
+    "seconds": 306.5,
+    "basis": "confirmed_display"
+  },
+  "presence_policy": "visible_ingredients_with_final_dish",
+  "notes": [
+    "Cooking progress measures the relative progress of a step in the edit.",
+    "Unknown visual features are stored as null. Normalized outputs use 0.5 as the neutral default.",
+    "Instrument switches follow visible ingredients. During final plating they also retain the confirmed final-dish ingredients."
+  ],
+  "semantic_timeline": "analysis/auto_timelines/794fcfe4115382ed/timeline.json",
+  "visual_status": "complete",
+  "preparation_seconds": 0.007
+}

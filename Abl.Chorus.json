@@ -1,0 +1,129 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.Chorus",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Feed" : [ 0.0 ],
+					"Gain" : [ 0.0 ],
+					"Invert" : [ 0.0 ],
+					"Mix" : [ 0.5 ],
+					"Mod" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Rate" : [ 0.9 ],
+					"Width" : [ 0.5 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Fast",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Feed" : [ 0.0 ],
+					"Gain" : [ 0.0 ],
+					"Invert" : [ 0.0 ],
+					"Mix" : [ 0.5 ],
+					"Mod" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Rate" : [ 3 ],
+					"Width" : [ 0.5 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Slow",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Feed" : [ 0.0 ],
+					"Gain" : [ 0.0 ],
+					"Invert" : [ 0.0 ],
+					"Mix" : [ 0.5 ],
+					"Mod" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Rate" : [ 0.25 ],
+					"Width" : [ 0.5 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Wide",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Feed" : [ 0.0 ],
+					"Gain" : [ 0.0 ],
+					"Invert" : [ 0.0 ],
+					"Mix" : [ 0.5 ],
+					"Mod" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Rate" : [ 0.9 ],
+					"Width" : [ 1.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "Deep",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Feed" : [ 0.346456692913385 ],
+					"Gain" : [ 0.0 ],
+					"Invert" : [ 0.0 ],
+					"Mix" : [ 0.5 ],
+					"Mod" : [ 1.0 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Rate" : [ 0.9 ],
+					"Width" : [ 0.5 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Sliding",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Feed" : [ 1.0 ],
+					"Gain" : [ 0.0 ],
+					"Invert" : [ 0.0 ],
+					"Mix" : [ 0.5 ],
+					"Mod" : [ 0.098425196850394 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"Rate" : [ 0.1 ],
+					"Width" : [ 0.5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

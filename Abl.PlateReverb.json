@@ -1,0 +1,128 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Abl.PlateReverb",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Default",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 1500.0 ],
+					"Decay" : [ 0.5 ],
+					"Mix" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Small",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 7405.363191980242846 ],
+					"Decay" : [ 0.177165354330709 ],
+					"Mix" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Long",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 1500.0 ],
+					"Decay" : [ 0.81496062992126 ],
+					"Mix" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Large",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 1500.0 ],
+					"Decay" : [ 0.81496062992126 ],
+					"Mix" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 0.0731339351318 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "Huge",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 3176.052043848297672 ],
+					"Decay" : [ 0.897637795275591 ],
+					"Mix" : [ 0.271653543307087 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 10.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"name" : "Bright",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 20000.0 ],
+					"Decay" : [ 0.673228346456693 ],
+					"Mix" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 0.012351750695848 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"name" : "Dark",
+				"data" : 				{
+					"Active" : [ 1.0 ],
+					"Damp" : [ 308.165367649284462 ],
+					"Decay" : [ 0.838582677165354 ],
+					"Mix" : [ 0.5 ],
+					"ModInA" : [ 1 ],
+					"ModInB" : [ 1 ],
+					"ModOutA" : [ 1 ],
+					"ModOutB" : [ 1 ],
+					"PreDel" : [ 0.012351750695848 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
